@@ -1,3 +1,7 @@
+--[[hi, if you're a premium user and didnt get your robux refund (others did get theirs idk why some dont, risked my account just to get the tshirt deleted so you can get refunded), dont worry after gta 6 release ill do tangerex v2 premium
+i discontinued this version bc was very lazy idk, 
+also reanimations used on this are ded 💀💀]]
+
 function notf(str,sec)
 game.StarterGui:SetCore("SendNotification", {
     Title ="Tangerex";
